@@ -134,6 +134,10 @@ button {
     background: rgba(0, 0, 0, 0.1);
 }
 
+.find{
+    transform: translateY(-50%);
+}
+
 .row>* {
     padding-left: 0;
     padding-right: 0;
@@ -207,6 +211,10 @@ footer a div {
 footer a div:hover {
     background-color: #009ad8;
     color: #fff;
+}
+
+.sub{
+    transform: translateY(-50%);
 }
 
 @media screen and (max-width:768px) {
